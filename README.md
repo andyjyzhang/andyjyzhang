@@ -1,8 +1,6 @@
 # Hi there, I'm Andy 👋
 
-I'm a Computer Science student at [University of Waterloo](https://uwaterloo.ca) passionate about learning new technologies and turning ideas into projects that can make a difference.
-
-For me, programming is all about building and creating projects that help others. I want to design solutions that have real-world impacts.
+I'm a Computer Science student at [University of Waterloo](https://uwaterloo.ca) passionate about learning new technologies and turning ideas into projects that can make a difference. For me, programming is all about building and creating projects that help others. I want to design solutions that have real-world impacts.
 
 In my free time, I enjoy playing **badminton**, **tennis**, and **poker**, as well as **building computers**.
 
