@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Andy 👋
+
+I'm a Computer Science student at [University of Waterloo](https://uwaterloo.ca) passionate about learning new technologies and turning ideas into projects that can make a difference.
+
+For me, programming is all about building and creating projects that help others. I want to design solutions that have real-world impacts.
+
+In my free time, I enjoy playing **badminton**, **tennis**, and **poker**, as well as **building computers**.
+
+If you’re working on something exciting or just want to chat about tech, feel free to reach out!
 
 <!--
 **andyjyzhang/andyjyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
