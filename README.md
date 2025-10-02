@@ -4,7 +4,7 @@ I'm a Computer Science student at [University of Waterloo](https://uwaterloo.ca)
 
 In my free time, I enjoy playing **badminton**, **tennis**, and **poker**, as well as **building computers**.
 
-If you’re working on something exciting or just want to chat about tech, feel free to reach out!
+If you’re working on something exciting or just want to connect, feel free to reach out!
 
 <!--
 **andyjyzhang/andyjyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
