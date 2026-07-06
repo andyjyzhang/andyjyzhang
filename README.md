@@ -1,22 +1,10 @@
-# Hi there, I'm Andy 👋
+## Hi! I'm Andy Zhang
 
-I'm a Computer Science student at [University of Waterloo](https://uwaterloo.ca) passionate about learning new technologies and turning ideas into projects that can make a difference. For me, programming is all about building and creating projects that help others. I want to design solutions that have real-world impacts.
+cs @ uwaterloo 
 
-In my free time, I enjoy playing **badminton**, **tennis**, and **poker**, as well as **building computers**.
+[website](https://ryan-li.ca/) • [linkedIn](https://www.linkedin.com/in/andyzhang12/) • a456zhan@uwaterloo.ca
 
-If you’re working on something exciting or just want to connect, feel free to reach out!
-
-<!--
-**andyjyzhang/andyjyzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-%234B8BBE.svg?style=flat&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%235382A1.svg?style=flat&logo=coffeescript&logoColor=white)
